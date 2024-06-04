@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arighna Bhattacharjee</h1>
 <h3 align="center">A passionate Python and ROS developer from India</h3>
-<div align="center">
-  <img height="200" src="https://i.gife![Ow1T](https://github.com/Arighna2003/Arighna2003/assets/121758941/24c2699e-9ac7-45a7-bb43-d1c43cd97e39)
-r.com/Ow1T.gif"  />
+<div align="right">
+  <img height="200" align="right" src="https://github.com/Arighna2003/Arighna2003/assets/121758941/3e457a29-b068-4f41-b6f4-022e2d3c8b64"
+  />
 </div>
 
 
