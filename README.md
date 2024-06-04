@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arighna Bhattacharjee</h1>
 <h3 align="center">A passionate Python and ROS developer from India</h3>
+<div align="center">
+  <img height="200" src="https://i.gifer.com/Ow1T.gif"  />
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arighna2003&label=Profile%20views&color=0e75b6&style=flat" alt="arighna2003" /> </p>
 
